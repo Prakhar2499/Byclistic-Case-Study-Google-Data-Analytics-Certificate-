@@ -1,2 +1,2 @@
-# Byclistic-Case-Study-Google-Data-Analytics-Certificate-
-Capstone project for Goo
+# Byclistic-Case-Study-Google-Data-Analytics-Certificate
+Capstone project for Google Data Analytics Certificate
